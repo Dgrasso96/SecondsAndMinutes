@@ -7,7 +7,7 @@
 
 ## About <a name = "about"></a>
 
-The Java software in question allows you to convert the seconds and minutes into the relative hours. The user can choose two modes through a menu.
+The Java application in question allows you to convert the seconds and minutes into the relative hours. The user can choose two modes through a menu.
 The first mode allows you to convert seconds and minutes into hours. While the second mode the seconds in hours.
 
 ## Getting Started <a name = "getting_started"></a>
